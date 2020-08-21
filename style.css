@@ -1,0 +1,42 @@
+body,td,th,p,iframe{
+	color: #AAAAAA;
+	font-family: Tahoma;
+	font-size: 20px;
+	vertical-align:middle;
+}
+html {
+	background: url("img/bg.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+a{
+	text-decoration: none;
+	vertical-align:middle;
+}
+a img{
+	color: #000000;
+	border: 0;
+	vertical-align:bottom;	
+}
+a:link{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:visited {
+	color: #FFFFFF;	
+}
+a:hover {
+	color: #AAAAAA;		
+}
+a:active {
+	color: #FFFFFF;	
+}
+.style1 {
+	font-size: 24px;
+	font-style: italic;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+strong {
+	color: #FFFFFF;
+	font-weight: bold;
+}
